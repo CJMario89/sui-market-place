@@ -3,7 +3,7 @@
 # Make offer
 
 The concept of MakeofferKiosk is derived from **Sui::Kiosk** . Kiosk developed by Mysten currently only provide the function with listing and purchasing without make offer and accept offer. This package exchange the position of item and coin spot to change the functionality of list and purchase function,
-There are some risks to make offer by this unofficial package. ex: If a collection have a lock rule, the items of the collection can not be trade on MakeofferKiosk, cause items are locked by Sui::Kiosk (Cause items can only be listed on official Kiosk if they are locked which defined by Sui).
+There are some risks to make offer by this unofficial package. e.g., If a collection have a lock rule, the items of the collection can not be trade on MakeofferKiosk, cause items are locked by Sui::Kiosk (Cause items can only be listed on official Kiosk if they are locked which defined by Sui).
 
 ## Differences from original **kiosk**
 
